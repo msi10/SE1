@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Universum()
+comment0.text=\r\n\ Initialisiert\ das\ Universum,\ so\ dass\ die\ Erde\ am\ linken\ Rand\ startet\r\n\ und\ sich\ gegen\ den\ Uhrzeigersinn\ um\ die\ Sonne\ dreht.\r\n
+comment1.params=
+comment1.target=void\ berechneEinenSchritt()
+comment1.text=\r\n\ Berechnet\ einen\ Schritt\ im\ Universum.\r\n
+comment2.params=
+comment2.target=void\ spuereDieEinfluesse()
+comment3.params=
+comment3.target=void\ beruecksichtigeAlleEinfluesse()
+comment4.params=
+comment4.target=double\ sonneX()
+comment4.text=\r\n\ Liefert\ die\ X-Koordinate\ der\ Sonne.\r\n
+comment5.params=
+comment5.target=double\ sonneY()
+comment5.text=\r\n\ Liefert\ die\ Y-Koordinate\ der\ Sonne.\r\n
+comment6.params=
+comment6.target=double\ erdeX()
+comment6.text=\r\n\ Liefert\ die\ X-Koordinate\ der\ Erde.\r\n
+comment7.params=
+comment7.target=double\ erdeY()
+comment7.text=\r\n\ Liefert\ die\ Y-Koordinate\ der\ Erde.\r\n
+numComments=8

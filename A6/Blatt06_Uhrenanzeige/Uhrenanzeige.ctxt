@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Uhrenanzeige()
+comment1.params=stunde\ minute
+comment1.target=Uhrenanzeige(int,\ int)
+comment2.params=
+comment2.target=void\ taktsignalGeben()
+comment3.params=stunde\ minute
+comment3.target=void\ setzeUhrzeit(int,\ int)
+comment4.params=
+comment4.target=java.lang.String\ gibUhrzeit()
+comment5.params=
+comment5.target=void\ anzeigeAktualisieren()
+numComments=6

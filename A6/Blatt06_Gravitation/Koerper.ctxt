@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=einfluss
+comment0.target=void\ spuereDenEinflussVon(Koerper)
+comment0.text=\r\n\ Passt\ die\ Beschleunigung\ gemaess\ Abstand\ und\ Masse\ des\ uebergebenen\ Koerpers\ an.\r\n\ Diese\ Methode\ sollte\ im\ ersten\ Schritt\ fuer\ alle\ beteiligten\ Koerper\ aufgerufen\ werden.\r\n
+comment1.params=
+comment1.target=void\ beruecksichtigeAlleEinfluesse()
+comment1.text=\r\n\ Passt\ die\ Geschwindigkeit\ und\ die\ Position\ gemaess\ der\ Beschleunigung\ an.\r\n\ Diese\ Methode\ sollte\ im\ zweiten\ Schritt\ fuer\ alle\ beteiligten\ Koerper\ aufgerufen\ werden.\r\n
+numComments=2

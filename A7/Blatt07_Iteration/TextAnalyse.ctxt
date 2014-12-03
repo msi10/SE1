@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=text
+comment0.target=boolean\ istFrage(java.lang.String)
+comment0.text=\r\n\ Ermittelt,\ ob\ es\ sich\ bei\ dem\ uebergebenen\ Text\ um\ eine\ Frage\r\n\ handelt.\ Eine\ Frage\ erkennt\ man\ am\ abschliessenden\ Fragezeichen.\r\n\ \r\n\ @param\ text\ der\ zu\ analysierende\ Text\r\n\ @return\ true,\ wenn\ es\ sich\ um\ eine\ Frage\ handelt,\ false\ sonst\r\n
+comment1.params=text
+comment1.target=boolean\ istFrageKompakt(java.lang.String)
+comment1.text=\r\n\ Ermittelt,\ ob\ es\ sich\ bei\ dem\ uebergebenen\ Text\ um\ eine\ Frage\r\n\ handelt.\ Eine\ Frage\ erkennt\ man\ am\ abschliessenden\ Fragezeichen.\r\n\ \r\n\ @param\ text\ der\ zu\ analysierende\ Text\r\n\ @return\ true,\ wenn\ es\ sich\ um\ eine\ Frage\ handelt,\ false\ sonst\r\n
+numComments=2

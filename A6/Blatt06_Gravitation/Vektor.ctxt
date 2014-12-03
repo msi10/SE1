@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Vektor()
+comment0.text=\r\n\ Initialisiert\ den\ Vektor\ auf\ den\ Koordinatenursprung.\r\n
+comment1.params=x\ y
+comment1.target=Vektor(double,\ double)
+comment1.text=\r\n\ Initialisiert\ den\ Vektor\ auf\ die\ angegebenen\ Werte.\r\n
+comment2.params=
+comment2.target=double\ x()
+comment2.text=\r\n\ Liefert\ die\ x-Koordinate.\r\n
+comment3.params=
+comment3.target=double\ y()
+comment3.text=\r\n\ Liefert\ die\ y-Koordinate.\r\n
+comment4.params=summand
+comment4.target=void\ addiere(Vektor)
+comment4.text=\r\n\ Addiert\ die\ Koordinaten\ des\ uebergebenen\ Vektors\ auf\ die\ eigenen\ Koordinaten\ drauf.\r\n
+comment5.params=summandX\ summandY
+comment5.target=void\ addiere(double,\ double)
+comment5.text=\r\n\ Addiert\ die\ uebergebenen\ Koordinaten\ auf\ die\ eigenen\ Koordinaten\ drauf.\r\n
+comment6.params=minuend
+comment6.target=Vektor\ abstandZu(Vektor)
+comment6.text=\r\n\ Liefert\ einen\ neuen\ Vektor,\ der\ den\ Abstand\ zum\ uebergebenen\ Vektor\ darstellt.\r\n
+comment7.params=
+comment7.target=double\ betragQuadrat()
+comment7.text=\r\n\ Liefert\ das\ Quadrat\ des\ Betrags\ des\ Vektors.\r\n
+numComments=8

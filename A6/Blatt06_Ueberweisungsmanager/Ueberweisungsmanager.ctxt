@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=quellKonto\ zielKonto\ betrag
+comment0.target=void\ ueberweisen(Konto,\ Konto,\ int)
+numComments=1
